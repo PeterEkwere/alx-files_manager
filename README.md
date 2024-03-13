@@ -1,8 +1,8 @@
 # alx-files_manager
 ## A Node.js Backend for File Management
 
-``` This project serves as a comprehensive exploration of back-end development principles, utilizing Node.js, MongoDB, Redis, authentication, pagination, and background processing to build a simple platform for managing files.
-```
+##### This project serves as a comprehensive exploration of back-end development principles, utilizing Node.js, MongoDB, Redis, authentication, pagination, and background processing to build a simple platform for managing files.
+
 
 Features:
 
