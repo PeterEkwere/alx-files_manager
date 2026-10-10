@@ -18,3 +18,4 @@ Backend: Node.js (Express.js framework likely used)
 Database: MongoDB
 Caching: Redis
 Authentication: Token-based
+
